@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * 业务表 gen_table
  * 
- * @author ruoyi
+ * @author mc
  */
 public class GenTable extends BaseEntity
 {

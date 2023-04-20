@@ -3,7 +3,7 @@ package com.mc.system.domain;
 /**
  * 当前在线会话
  * 
- * @author ruoyi
+ * @author mc
  */
 public class SysUserOnline
 {

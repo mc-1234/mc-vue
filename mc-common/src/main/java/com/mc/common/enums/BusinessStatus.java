@@ -3,7 +3,7 @@ package com.mc.common.enums;
 /**
  * 操作状态
  * 
- * @author ruoyi
+ * @author mc
  *
  */
 public enum BusinessStatus

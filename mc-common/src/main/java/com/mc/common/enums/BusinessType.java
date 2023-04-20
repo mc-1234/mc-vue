@@ -3,7 +3,7 @@ package com.mc.common.enums;
 /**
  * 业务操作类型
  * 
- * @author ruoyi
+ * @author mc
  */
 public enum BusinessType
 {

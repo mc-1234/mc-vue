@@ -3,7 +3,7 @@ package com.mc.system.domain.vo;
 /**
  * 路由显示信息
  * 
- * @author ruoyi
+ * @author mc
  */
 public class MetaVo
 {

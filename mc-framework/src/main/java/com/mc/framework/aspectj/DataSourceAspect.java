@@ -19,7 +19,7 @@ import com.mc.framework.datasource.DynamicDataSourceContextHolder;
 /**
  * 多数据源处理
  * 
- * @author ruoyi
+ * @author mc
  */
 @Aspect
 @Order(1)

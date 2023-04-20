@@ -27,7 +27,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * 通用请求处理
  * 
- * @author ruoyi
+ * @author mc
  */
 @RestController
 @Api(tags = {"通用-文件上传与下载"})

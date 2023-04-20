@@ -10,7 +10,7 @@ import java.util.Properties;
 /**
  * 定时任务配置
  * 
- * @author ruoyi
+ * @author mc
  */
 @Configuration
 public class ScheduleConfig
